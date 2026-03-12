@@ -86,7 +86,6 @@ main {
 .masonry .large {
     grid-row: span 2;
     grid-column: span 2;
-
 }
 .masonry .small {
     grid-row: 1fr;
